@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\MobileOnlineShopSystem",
+    "\\MobileOnlineShopSystem\\UserMicroservice",
+    "\\MobileOnlineShopSystem\\UserMicroservice\\Business Layer",
+    "\\MobileOnlineShopSystem\\UserMicroservice\\Business Layer\\DTO",
+    "\\MobileOnlineShopSystem\\UserMicroservice\\Business Layer\\Service",
+    "\\MobileOnlineShopSystem\\UserMicroservice\\Data Access Layer",
+    "\\MobileOnlineShopSystem\\UserMicroservice\\Data Access Layer\\Data"
+  ],
+  "SelectedNode": "\\MobileOnlineShopSystem\\UserMicroservice\\Data Access Layer\\Data\\UserData.cs",
+  "PreviewInSolutionExplorer": false
+}
